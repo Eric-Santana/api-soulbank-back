@@ -1,1 +1,1 @@
-module.exports = 'theavengers'
+module.exports = 'theavengers';
